@@ -1,0 +1,89 @@
+{
+  "frames": {
+    "bloqueado001": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 366,
+        "y": 20,
+        "w": 149,
+        "h": 161
+      },
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 5,
+        "w": 149,
+        "h": 161
+      },
+      "sourceSize": {
+        "w": 157,
+        "h": 171
+      }
+    },
+    "bloqueado002-13": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 186,
+        "y": 2,
+        "w": 178,
+        "h": 179
+      },
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 7,
+        "w": 178,
+        "h": 179
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 188
+      }
+    },
+    "desbloqueado001": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 517,
+        "y": 20,
+        "w": 148,
+        "h": 161
+      },
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 5,
+        "w": 148,
+        "h": 161
+      },
+      "sourceSize": {
+        "w": 157,
+        "h": 171
+      }
+    },
+    "desbloqueado002": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 2,
+        "y": 4,
+        "w": 182,
+        "h": 177
+      },
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 7,
+        "w": 182,
+        "h": 177
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 188
+      }
+    }
+  },
+  "meta": {
+    "app": "Phaser Editor",
+    "version": "1",
+    "image": "niveles.png"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "frames": {
+    "recargar1": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 342,
+        "h": 340
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 342,
+        "h": 340
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      }
+    },
+    "recargar2": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 346,
+        "y": 7,
+        "w": 337,
+        "h": 335
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 337,
+        "h": 335
+      },
+      "sourceSize": {
+        "w": 337,
+        "h": 335
+      }
+    }
+  },
+  "meta": {
+    "app": "Phaser Editor",
+    "version": "1",
+    "image": "recargar.png"
+  }
+}

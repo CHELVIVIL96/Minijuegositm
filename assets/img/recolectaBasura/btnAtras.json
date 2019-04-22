@@ -1,0 +1,49 @@
+{
+  "frames": {
+    "001-02": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 221,
+        "y": 35,
+        "w": 178,
+        "h": 156
+      },
+      "spriteSourceSize": {
+        "x": 107,
+        "y": 91,
+        "w": 178,
+        "h": 156
+      },
+      "sourceSize": {
+        "w": 392,
+        "h": 338
+      }
+    },
+    "002-02": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 217,
+        "h": 189
+      },
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 74,
+        "w": 217,
+        "h": 189
+      },
+      "sourceSize": {
+        "w": 392,
+        "h": 338
+      }
+    }
+  },
+  "meta": {
+    "app": "Phaser Editor",
+    "version": "1",
+    "image": "btnAtras.png"
+  }
+}

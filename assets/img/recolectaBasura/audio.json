@@ -1,0 +1,89 @@
+{
+  "frames": {
+    "audioActivo1": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 46,
+        "h": 36
+      },
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 15,
+        "w": 46,
+        "h": 36
+      },
+      "sourceSize": {
+        "w": 68,
+        "h": 64
+      }
+    },
+    "audioActivo2": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 2,
+        "y": 40,
+        "w": 63,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 9,
+        "w": 63,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 73,
+        "h": 64
+      }
+    },
+    "audioMute1": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 50,
+        "y": 3,
+        "w": 46,
+        "h": 35
+      },
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 16,
+        "w": 46,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 73,
+        "h": 64
+      }
+    },
+    "audioMute2": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 67,
+        "y": 40,
+        "w": 63,
+        "h": 48
+      },
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 10,
+        "w": 63,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 73,
+        "h": 64
+      }
+    }
+  },
+  "meta": {
+    "app": "Phaser Editor",
+    "version": "1",
+    "image": "audio.png"
+  }
+}

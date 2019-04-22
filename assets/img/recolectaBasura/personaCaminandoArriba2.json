@@ -1,0 +1,69 @@
+{
+  "frames": {
+    "A1": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 87,
+        "h": 117
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 117
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 117
+      }
+    },
+    "A2": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 91,
+        "y": 3,
+        "w": 87,
+        "h": 116
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 116
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 116
+      }
+    },
+    "A4": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 180,
+        "y": 3,
+        "w": 87,
+        "h": 116
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 116
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 116
+      }
+    }
+  },
+  "meta": {
+    "app": "Phaser Editor",
+    "version": "1",
+    "image": "personaCaminandoArriba2.png"
+  }
+}
